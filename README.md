@@ -53,14 +53,18 @@ limitations.md — Intentional boundaries
 
 For security, integrity, and respect for users, the following are not part of this repository:
 
-- Source code
-- Environment variables
-- API keys or secrets
-- Server configurations
-- User data
-- Logs or operational endpoints
+/docs
+- architecture.md       — High-level system design and logical flow  
+- ethics.md             — Ethical principles and moral boundaries  
+- scalability.md        — Load handling and sustainability strategy  
+- diagrams.md           — Structural and data flow representations  
+- design-principles.md  — Interface philosophy and contemplative UX logic  
+- limitations.md        — Intentional constraints and ethical boundaries
 
-This is a documentation-first repository.
+/screenshots
+- interface-home.png
+- scripture-panel.png
+- dialog-view.png
 
 ---
 
