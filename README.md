@@ -46,6 +46,13 @@ limitations.md — Intentional boundaries
 
 /screenshots — Visual interface references
 
+---
+
+## Interface Preview
+
+![StillVoice Home](screenshots/interface-home.png)
+![Scripture Panel](screenshots/scripture-panel.png)
+![Dialogue View](screenshots/dialog-view.png)
 
 ---
 
